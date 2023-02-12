@@ -80,19 +80,16 @@ nav{
     padding: 20px;
     font-size: large;
 }
-.col2 dt{
-    font-size: large;   
-}
-.col2 dd{
-    font-size: large;
-    margin: 0 0 40px 20px; 
+.col2 span{
+    font-size: larger;
+    font-weight: bold;   
 }
 .col2 p{
     font-size: large;
+    margin: 0 0 0px 20px; 
 }
 
-
- .row {
+.row {
    display: flex;
    width: 100%;
  }
