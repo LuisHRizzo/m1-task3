@@ -35,7 +35,7 @@ nav{
 .nav-bar:hover{
     background-color: green;
 }
-.nav-bar:active{
+.active{
     background-color: green;
 
 }
@@ -58,6 +58,7 @@ nav{
 .titulo{
     border: 1px solid black;
     text-align: center;
+    font-size: 24px;
 }
 
 .col1{

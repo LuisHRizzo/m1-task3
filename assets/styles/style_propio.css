@@ -19,8 +19,8 @@ h1{
 }
 
 nav{
-    background-color: rgba(255, 255, 255, 0);
-    padding: 5px;
+    background-color: rgba(210, 235, 235, 0.5);
+    padding: 10px;
     display: flex;
     justify-content: flex-end;
     /* border: 1px solid black; */
@@ -49,13 +49,14 @@ nav{
 }
 
 .banner{
+    background-color: rgba(210, 235, 235, 0.897);
     z-index: -1;
     width: 100%;
-    height: 500px;
+    height: 400px;
     display: inline-block;
     animation: banner 6s infinite;
     align-items: center;
-    margin: 0 10px;
+    margin: 0px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -82,7 +83,10 @@ nav{
 }
 
 .titulo{
+    background-color: rgba(210, 235, 235, 0.897);
+
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
     /*border: 1px solid black;*/
     text-align: center;
     color: rgb(241, 227, 26);
@@ -92,6 +96,8 @@ nav{
 }
 
 .col1{
+    background-color: rgba(210, 235, 235, 0.897);
+
     width: 25%;
     height: 300px;
     /* border: 1px solid black; */
@@ -104,6 +110,8 @@ nav{
 }
 
 .col2{
+    background-color: rgba(210, 235, 235, 0.897);
+
     width: 75%;
     /* border: 1px solid black; */
     display: inline-block;
