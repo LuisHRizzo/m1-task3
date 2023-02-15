@@ -150,7 +150,7 @@ nav{
 }
 .col2 p{
     font-size: large;
-    margin: 0 0 0px 20px; 
+    margin: 0 0 20px 20px; 
 }
 
  .row {
@@ -182,7 +182,30 @@ nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+
 }
+.rules h3{
+    margin-bottom: 1em;
+}
+.rules>span{
+    margin-bottom: 1em;
+}
+.rules>p{
+    margin-bottom: 1em;
+}
+ol p{
+    margin-bottom: 1em;
+}
+
+.ol-2{
+    list-style-type: lower-alpha;
+}
+
+.ul-blanca{
+    list-style-type: circle;
+    margin-left: 40px;
+}
+
  footer{
     display: flex;
     justify-content: center;
